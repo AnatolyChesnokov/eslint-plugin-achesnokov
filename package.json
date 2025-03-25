@@ -2,7 +2,7 @@
   "name": "eslint-plugin-achesnokov",
   "type": "module",
   "version": "0.1.0",
-  "packageManager": "pnpm@10.6.2",
+  "packageManager": "pnpm@10.6.2+sha256.20072a1f6edd17646ea9234bf32c42d563dad37b2973e97a2dde5c17774a824d",
   "description": "Anatoly's opinionated ESLint rules",
   "author": "Anatoly Chesnokov <anatolyches@gmail.com>",
   "license": "MIT",
@@ -40,7 +40,6 @@
     "eslint": "*"
   },
   "devDependencies": {
-    "@achesnokov/eslint-config": "^0.1.0",
     "@antfu/ni": "^24.1.0",
     "@antfu/utils": "^9.1.0",
     "@types/eslint": "^9.6.1",
